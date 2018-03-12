@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Vuecash Wallet
+Comment=Vuecash wallet
+Exec=vuecashwallet %U
+Terminal=false
+Type=Application
+Icon=vuecash
+MimeType=x-scheme-handler/vuecash;
+Categories=Office;Finance;
